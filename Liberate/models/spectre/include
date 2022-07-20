@@ -1,0 +1,5 @@
+*** Model include file ***
+
+simulator lang = spectre
+ahdl_include "veriloga.va"
+ahdl_include "veriloga_N.va"

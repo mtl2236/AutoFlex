@@ -1,0 +1,152 @@
+library (userdata) {
+  cell (ADDFX1) {
+    area : 5.13;
+  }
+  cell (ADDHX1) {
+    area : 3.762;
+  }
+  cell (AND2X1) {
+    area : 1.368;
+  }
+  cell (AND2X2) {
+    area : 1.71;
+  }
+  cell (AND2X4) {
+    area : 2.736;
+  }
+  cell (AND3X1) {
+    area : 2.394;
+  }
+  cell (AOI21X1) {
+    area : 1.71;
+  }
+  cell (AOI221X1) {
+    area : 2.394;
+  }
+  cell (AOI222X1) {
+    area : 3.078;
+  }
+  cell (AOI22X1) {
+    area : 2.052;
+  }
+  cell (BUFX1) {
+    area : 1.71;
+  }
+  cell (BUFX16) {
+    area : 27.36;
+  }
+  cell (BUFX2) {
+    area : 3.42;
+  }
+  cell (BUFX32) {
+    area : 54.32;
+  }
+  cell (BUFX4) {
+    area : 6.84;
+  }
+  cell (BUFX8) {
+    area : 13.68;
+  }
+  cell (DFFQX1) {
+    area : 5.814;
+  }
+  cell (DFFQX2) {
+    area : 6.498;
+  }
+  cell (DFFRX1) {
+    area : 6.84;
+  }
+  cell (DFFRX2) {
+    area : 7.524;
+  }
+  cell (INVX1) {
+    area : 0.684;
+  }
+  cell (INVX16) {
+    area : 5.472;
+  }
+  cell (INVX2) {
+    area : 1.026;
+  }
+  cell (INVX32) {
+    area : 10.944;
+  }
+  cell (INVX4) {
+    area : 1.71;
+  }
+  cell (INVX8) {
+    area : 3.078;
+  }
+  cell (MX2X1) {
+    area : 2.394;
+  }
+  cell (MX2X2) {
+    area : 3.078;
+  }
+  cell (MX4X1) {
+    area : 7.524;
+  }
+  cell (MX4X2) {
+    area : 8.55;
+  }
+  cell (NAND2X1) {
+    area : 1.026;
+  }
+  cell (NAND2X2) {
+    area : 1.71;
+  }
+  cell (NAND2X4) {
+    area : 3.1464;
+  }
+  cell (NAND3X1) {
+    area : 1.71;
+  }
+  cell (NOR2X1) {
+    area : 1.026;
+  }
+  cell (NOR2X2) {
+    area : 1.71;
+  }
+  cell (NOR2X4) {
+    area : 3.078;
+  }
+  cell (NOR3X1) {
+    area : 1.71;
+  }
+  cell (OAI21X1) {
+    area : 1.71;
+  }
+  cell (OAI221X1) {
+    area : 2.394;
+  }
+  cell (OAI222X1) {
+    area : 2.736;
+  }
+  cell (OAI22X1) {
+    area : 2.052;
+  }
+  cell (OR2X1) {
+    area : 1.368;
+  }
+  cell (OR2X2) {
+    area : 1.71;
+  }
+  cell (OR2X4) {
+    area : 2.736;
+  }
+  cell (OR3X1) {
+    area : 2.052;
+  }
+  cell (XNOR2X1) {
+    area : 2.394;
+  }
+  cell (XNOR2X2) {
+    area : 3.078;
+  }
+  cell (XOR2X1) {
+    area : 2.736;
+  }
+  cell (XOR2X2) {
+    area : 3.42;
+  }
+}

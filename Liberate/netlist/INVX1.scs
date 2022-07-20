@@ -1,0 +1,23 @@
+// Generated for: spectre
+// Generated on: May 18 14:38:13 2022
+// Design library name: CNT_CMOS
+// Design cell name: INVX1
+// Design view name: schematic
+simulator lang=spectre
+//global 0
+//parameters VG VDD VSS Inperiod trise
+//include "/simulation/tianliang/test/gpdk045_v_6_0/gpdk045/../models/spectre/gpdk045.scs" section=mc
+
+// Library name: CNT_CMOS
+// Cell name: INVX1
+// View name: schematic
+subckt INVX1 VSS VDD A Y
+mn0 (VSS A Y) CNT_CDF_N l=0.6 w=5 MU=55 COX=110e-09 COL=0 CGSD=0 COLGSD=0 \
+        CSD=0 VTO=0.7 FLG_SPLT=1 FINGER=1 sdW=10 gsdEnc=1 gcntEnc=3 \
+        TEMP=300 LAMBDA=0.005 VSS=0.18 GAMMA=0.35 IOFF=0 MM=1.65 AA=1 \
+        SLOPE=10 VAA=1 RCS=500 RCD=500 FLG_FLD=0 RFS=1 RFD=1 RFG=1 typep=1
+mp0 (Y A VDD) CNT_CDF l=0.6 w=5 MU=55 COX=110e-09 COL=0 CGSD=0 COLGSD=0 \
+        CSD=0 VTO=-0.7 FLG_SPLT=1 FINGER=1 sdW=10 gsdEnc=1 gcntEnc=3 \
+        TEMP=300 LAMBDA=0.005 VSS=0.18 GAMMA=0.35 IOFF=0 MM=1.65 AA=1 \
+        SLOPE=10 VAA=1 RCS=500 RCD=500 FLG_FLD=0 RFS=1 RFD=1 RFG=1 typep=-1
+ends INVX1
