@@ -25,5 +25,6 @@ When all benchmarks are completed, users can go through each design folder to co
 ## Results
 Normally, the results are extracted from the Genus log files in each benchmark's workspace, for example, in folder "Design/darkriscv/worksapce/Genus/logs".
 
-![result_example](https://user-images.githubusercontent.com/89757542/180213458-aabea38b-9184-456e-b8ec-0aa1ee6f4416.png)
+![result_example](https://user-images.githubusercontent.com/89757542/180213907-8340ed42-3143-4661-8098-f012e89290f4.png)
+
 
