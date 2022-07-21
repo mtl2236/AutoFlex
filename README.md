@@ -21,3 +21,9 @@ Users can run the whole process with just one Python command:
 python Main.py
 ```
 When all benchmarks are completed, users can go through each design folder to collect final report in log files of Genus. 
+
+## Results
+Normally, the results are extracted from the Genus log files in each benchmark's workspace, for example, in folder "Design/darkriscv/worksapce/Genus/logs".
+
+![result_example](https://user-images.githubusercontent.com/89757542/180213458-aabea38b-9184-456e-b8ec-0aa1ee6f4416.png)
+
