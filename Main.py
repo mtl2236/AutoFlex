@@ -24,7 +24,7 @@ def finding_subfolder(path):
 
 #Run Liberte
 os.chdir('Liberate')
-Liberate_cmd='Liberate tcl/char.tcl 2>&1|tee char.log'
+Liberate_cmd='liberate tcl/char.tcl 2>&1|tee char.log'
 os.system(Liberate_cmd)
 os.chdir("..")
 
